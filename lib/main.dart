@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-        backgroundColor: Colors.indigo,
+        backgroundColor: Color.fromARGB(255, 85, 181, 63),
         title: Text('Calculator'),
       )),
     );
